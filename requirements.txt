@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+pgvector 
+peewee 
+python-dotenv

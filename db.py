@@ -63,4 +63,3 @@ def set_openai_api_key():
         "set ai.openai_api_key = %s;\nselect pg_catalog.current_setting('ai.openai_api_key', true) as api_key",
         (os.getenv("OPENAI_API_KEY"),)
     )
-      
