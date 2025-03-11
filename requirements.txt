@@ -2,5 +2,10 @@ pandas
 numpy
 streamlit
 pgvector 
+psycopg2-binary
 peewee 
+PyPDF2
+openai
+anyio
+pydantic
 python-dotenv
